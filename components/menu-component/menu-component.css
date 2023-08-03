@@ -1,0 +1,7 @@
+.menu-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-top: 45px;
+    margin-right: 100px;
+}
