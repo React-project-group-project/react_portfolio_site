@@ -1,6 +1,6 @@
 import React from 'react';
 import {View, StyleSheet, Text, Image} from 'react-native';
-import me from '../../assets/meDesc.svg';
+import me from '../../assets/images/meDesc.svg';
 
 const About: React.FC = () => {
   return (

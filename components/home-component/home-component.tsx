@@ -1,10 +1,10 @@
 import React from 'react';
 import {View, Text, Image, StyleSheet} from 'react-native';
-import me from '../../assets/me.svg';
-import facebook from '../../assets/facebook.svg';
-import twitter from '../../assets/twitter.svg';
-import linkedin from '../../assets/linkedin.svg';
-import github from '../../assets/github.svg';
+import me from '../../assets/images/me.svg';
+import facebook from '../../assets/icons/facebook.svg';
+import twitter from '../../assets/icons/twitter.svg';
+import linkedin from '../../assets/icons/linkedin.svg';
+import github from '../../assets/icons/github.svg';
 
 const Home: React.FC = () => {
   return (
